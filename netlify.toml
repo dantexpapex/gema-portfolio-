@@ -1,0 +1,8 @@
+[build]
+  publish = "portfolio"
+  command = ""
+
+[[redirects]]
+  from = "/*"
+  to = "/portfolio/index.html"
+  status = 200
